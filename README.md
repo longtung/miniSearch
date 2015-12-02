@@ -1,0 +1,2 @@
+# miniSearch
+Rest Web-service
